@@ -1,0 +1,88 @@
+/*  */
+body{
+    color: white;
+    margin: 0px;
+    background-color: rgb(169, 26, 102);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;}
+.capa img{
+    width: 150px;
+}
+.capa{
+    background-color: rgb(246, 104, 3);
+    height: 80vh;
+    text-align: center;
+    padding: 2%;
+}
+.capa h1{
+    color: rgb(255, 202, 133);
+    font-size: 100px;
+}
+.capa h2{
+    color: rgb(255, 186, 112);
+}
+.capa p{
+    color: rgb(255, 255, 255);
+}
+.aluno{
+    background-color: rgb(191, 44, 213);
+    padding: 4%;
+    height: 70vh;
+    gap: 150px;
+    display: flex;
+    }
+.aluno img{
+    width: 500px;
+}
+.direita{
+    text-align: right;
+}
+.aluno h2{
+    color: rgb(224, 146, 255);
+}
+.aluno p{
+    color: rgb(255, 255, 255);
+}
+.portifolio{
+    background-color: rgb(235, 247, 65);
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.portifolio img{
+  width: 300px;
+}
+.grupo{
+    background-color: rgb(26, 195, 192);
+    display: flex;
+    /* justify-content: space-around; */
+    height: 70vh;
+    padding: 4%;
+    gap: 300px;
+    align-items: center;
+}
+.grupo h2{
+    color: rgb(142, 234, 255);
+    /* height: 80vh; */
+   /*  padding: 2%; */
+    font-size: 48px;
+} 
+.grupo p{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+.grupos{
+    /* text-align: center; */
+    background-color: rgb(223, 32, 172);
+    height: 80vh;
+    text-align: center;
+    padding: 2%;
+}
+.grupos h2{
+    color: rgb(255, 126, 223);
+}
+.grupos p{
+    color: rgb(255, 255, 255);
+}
+

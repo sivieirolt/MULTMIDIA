@@ -1,0 +1,70 @@
+.beneficios{
+    background-color: black;
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 90vh;
+   margin: 0%;
+   justify-content: space-between;
+   /* padding: 15%; */
+   /* margin: 0%
+   
+   gap: 300px;
+   width: ; */
+   display: flex;
+}
+.caixa1 h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.beneficios ul{
+    color: rgb(255, 255, 255);
+}
+.beneficios p{
+    color: rgb(255, 255, 255);
+}
+    .beneficios h2{
+        background-color: #be70e000;
+        height: 15;
+    }
+.caixa1 {
+    border: 10px ridge #b66cd5;
+    background-color: rgba(154, 32, 171, 1);
+    width: 30vw;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;}
+.caixa2 {
+    border: 8px ridge #b66cd5;
+    background-color: rgba(154, 32, 171, 1);
+    width: 30vw;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.caixa2 p{
+color: white;
+}
+.caixa2 h2{
+    color: white;
+    text-align: center;
+
+}
+.caixa2 button{
+    color: #ffffff;
+    background-color: #b66cd5;
+
+}
+ .beneficios img{
+    width: 50VW;
+    text-align: right;
+    background-position: right top
+ }
+ .textos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 80px;
+ }
+ .caixa2 a {
+    text-align: center;
+ }
